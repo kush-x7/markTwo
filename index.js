@@ -10,8 +10,8 @@ function display()
 {
   console.clear();
   console.log(`
-  █░░ █▀▀ ▀█▀ ▀ █▀   █▀█ █░░ ▄▀█ █▄█   █
-  █▄▄ ██▄ ░█░ ░ ▄█   █▀▀ █▄▄ █▀█ ░█░   ▄
+█░░ █▀▀ ▀█▀ ▀ █▀   █▀█ █░░ ▄▀█ █▄█   █
+█▄▄ ██▄ ░█░ ░ ▄█   █▀▀ █▄▄ █▀█ ░█░   ▄
   `);
 
   console.log(chalk.bold.cyanBright(`Only A True Marvel Fan Can Pass This Superhero Test`));
