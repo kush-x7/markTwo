@@ -3,7 +3,7 @@
 <br/>
 
 # How to use:
-- Click on the link → [https://replit.com/@kushcodes/marktwo?embed=1&output=1#index.js](https://replit.com/@kushcodes/markTwo?embed=1&output=1#index.js)
+- Click on the link → [https://replit.com/@kushcodes/marktwo?embed=1&output=1#index.js](https://replit.com/@kushcodes/marktwo?embed=1&output=1#index.js)
 - Enter your name
 - Now the app will ask you 5 question and you will get +1 for each correct answer.
 - Each question will contain options in it. Just select the correct option and type it.
